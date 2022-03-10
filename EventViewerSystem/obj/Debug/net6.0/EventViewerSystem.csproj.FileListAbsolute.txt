@@ -1,0 +1,30 @@
+C:\Users\didie\Documents\BOT\Módulo 1. Fundamentos de Software\Unidad 6. Curso de Buenas Practicas para Escritura de Codigo\Practicas\EventViewerSystem\EventViewerSystem\bin\Debug\net6.0\EventViewerSystem.exe
+C:\Users\didie\Documents\BOT\Módulo 1. Fundamentos de Software\Unidad 6. Curso de Buenas Practicas para Escritura de Codigo\Practicas\EventViewerSystem\EventViewerSystem\bin\Debug\net6.0\EventViewerSystem.deps.json
+C:\Users\didie\Documents\BOT\Módulo 1. Fundamentos de Software\Unidad 6. Curso de Buenas Practicas para Escritura de Codigo\Practicas\EventViewerSystem\EventViewerSystem\bin\Debug\net6.0\EventViewerSystem.runtimeconfig.json
+C:\Users\didie\Documents\BOT\Módulo 1. Fundamentos de Software\Unidad 6. Curso de Buenas Practicas para Escritura de Codigo\Practicas\EventViewerSystem\EventViewerSystem\bin\Debug\net6.0\EventViewerSystem.dll
+C:\Users\didie\Documents\BOT\Módulo 1. Fundamentos de Software\Unidad 6. Curso de Buenas Practicas para Escritura de Codigo\Practicas\EventViewerSystem\EventViewerSystem\bin\Debug\net6.0\EventViewerSystem.pdb
+C:\Users\didie\Documents\BOT\Módulo 1. Fundamentos de Software\Unidad 6. Curso de Buenas Practicas para Escritura de Codigo\Practicas\EventViewerSystem\EventViewerSystem\obj\Debug\net6.0\EventViewerSystem.csproj.AssemblyReference.cache
+C:\Users\didie\Documents\BOT\Módulo 1. Fundamentos de Software\Unidad 6. Curso de Buenas Practicas para Escritura de Codigo\Practicas\EventViewerSystem\EventViewerSystem\obj\Debug\net6.0\EventViewerSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didie\Documents\BOT\Módulo 1. Fundamentos de Software\Unidad 6. Curso de Buenas Practicas para Escritura de Codigo\Practicas\EventViewerSystem\EventViewerSystem\obj\Debug\net6.0\EventViewerSystem.AssemblyInfoInputs.cache
+C:\Users\didie\Documents\BOT\Módulo 1. Fundamentos de Software\Unidad 6. Curso de Buenas Practicas para Escritura de Codigo\Practicas\EventViewerSystem\EventViewerSystem\obj\Debug\net6.0\EventViewerSystem.AssemblyInfo.cs
+C:\Users\didie\Documents\BOT\Módulo 1. Fundamentos de Software\Unidad 6. Curso de Buenas Practicas para Escritura de Codigo\Practicas\EventViewerSystem\EventViewerSystem\obj\Debug\net6.0\EventViewerSystem.csproj.CoreCompileInputs.cache
+C:\Users\didie\Documents\BOT\Módulo 1. Fundamentos de Software\Unidad 6. Curso de Buenas Practicas para Escritura de Codigo\Practicas\EventViewerSystem\EventViewerSystem\obj\Debug\net6.0\EventViewerSystem.dll
+C:\Users\didie\Documents\BOT\Módulo 1. Fundamentos de Software\Unidad 6. Curso de Buenas Practicas para Escritura de Codigo\Practicas\EventViewerSystem\EventViewerSystem\obj\Debug\net6.0\refint\EventViewerSystem.dll
+C:\Users\didie\Documents\BOT\Módulo 1. Fundamentos de Software\Unidad 6. Curso de Buenas Practicas para Escritura de Codigo\Practicas\EventViewerSystem\EventViewerSystem\obj\Debug\net6.0\EventViewerSystem.pdb
+C:\Users\didie\Documents\BOT\Módulo 1. Fundamentos de Software\Unidad 6. Curso de Buenas Practicas para Escritura de Codigo\Practicas\EventViewerSystem\EventViewerSystem\obj\Debug\net6.0\EventViewerSystem.genruntimeconfig.cache
+C:\Users\didie\Documents\BOT\Módulo 1. Fundamentos de Software\Unidad 6. Curso de Buenas Practicas para Escritura de Codigo\Practicas\EventViewerSystem\EventViewerSystem\obj\Debug\net6.0\ref\EventViewerSystem.dll
+C:\Users\didie\Desktop\EventViewerSystem\EventViewerSystem\bin\Debug\net6.0\EventViewerSystem.exe
+C:\Users\didie\Desktop\EventViewerSystem\EventViewerSystem\bin\Debug\net6.0\EventViewerSystem.deps.json
+C:\Users\didie\Desktop\EventViewerSystem\EventViewerSystem\bin\Debug\net6.0\EventViewerSystem.runtimeconfig.json
+C:\Users\didie\Desktop\EventViewerSystem\EventViewerSystem\bin\Debug\net6.0\EventViewerSystem.dll
+C:\Users\didie\Desktop\EventViewerSystem\EventViewerSystem\bin\Debug\net6.0\EventViewerSystem.pdb
+C:\Users\didie\Desktop\EventViewerSystem\EventViewerSystem\obj\Debug\net6.0\EventViewerSystem.csproj.AssemblyReference.cache
+C:\Users\didie\Desktop\EventViewerSystem\EventViewerSystem\obj\Debug\net6.0\EventViewerSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didie\Desktop\EventViewerSystem\EventViewerSystem\obj\Debug\net6.0\EventViewerSystem.AssemblyInfoInputs.cache
+C:\Users\didie\Desktop\EventViewerSystem\EventViewerSystem\obj\Debug\net6.0\EventViewerSystem.AssemblyInfo.cs
+C:\Users\didie\Desktop\EventViewerSystem\EventViewerSystem\obj\Debug\net6.0\EventViewerSystem.csproj.CoreCompileInputs.cache
+C:\Users\didie\Desktop\EventViewerSystem\EventViewerSystem\obj\Debug\net6.0\EventViewerSystem.dll
+C:\Users\didie\Desktop\EventViewerSystem\EventViewerSystem\obj\Debug\net6.0\refint\EventViewerSystem.dll
+C:\Users\didie\Desktop\EventViewerSystem\EventViewerSystem\obj\Debug\net6.0\EventViewerSystem.pdb
+C:\Users\didie\Desktop\EventViewerSystem\EventViewerSystem\obj\Debug\net6.0\EventViewerSystem.genruntimeconfig.cache
+C:\Users\didie\Desktop\EventViewerSystem\EventViewerSystem\obj\Debug\net6.0\ref\EventViewerSystem.dll
